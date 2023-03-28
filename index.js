@@ -86,3 +86,15 @@ var finances = [
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
 ];
+// total number of month
+console.log ("Total months:" + finances.length);
+
+// ammount of profit / loss over entire period
+
+//The average of the **changes** in Profit/Losses over the entire period. (month to month then avr. for whole period of time)
+
+//`Total/(Number of months - 1)`
+
+//The greatest increase in Profit/Losses (date and amount) over the entire period.
+
+//The greatest decrease in Profit/Losses (date and amount) over the entire period.
